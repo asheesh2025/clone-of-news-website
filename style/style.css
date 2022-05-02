@@ -1,0 +1,28 @@
+#navbar{
+    display: flex;
+    border: 1px solid red;
+    background-color: bisque;
+  }
+  #navbar h2,#navbar input{
+    width: 60%;
+    height: 0px;
+    border-radius: 15px;
+    padding: 20px;
+  }
+  #search_input{
+    margin-top: 25px;
+    font-size: 20px;
+  }
+  #sidebar{
+    border: 1px solid bisque;
+    width: 120px;
+    background-color: blanchedalmond;
+    margin-top: 10px;
+  }
+  #sidebar h3{
+    justify-content: space-evenly;
+    gap: 20px;
+  }
+  h3{
+    background-color: teal;
+  }
