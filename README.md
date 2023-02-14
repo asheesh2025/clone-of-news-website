@@ -1,3 +1,3 @@
 # clone-of-news-website
 
-I created this at Masai School.
+I created this project at Masai School.
