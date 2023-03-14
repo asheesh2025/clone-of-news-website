@@ -1,3 +1,3 @@
 # A clone of News website.
 
-I created this project at Masai School.
+I created this project at Masai School with the help og HTML, CSS & JavaScript.
